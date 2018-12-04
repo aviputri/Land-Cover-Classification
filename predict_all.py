@@ -82,7 +82,7 @@ np.save(a, predict2017)
 a = "/Volumes/ga87rif/Study Project/Result/predict_17_50trees_from09full.npy"
 predict2017 = np.load(a)
 
-#===========PREDIT FROM 2017 TRAINING=============
+#===========PREDIT FROM 2011 TRAINING=============
 a = "/Volumes/ga87rif/Study Project/satelite images/2011/img_11.npy"
 predict_img_11 = np.load(a)
 
